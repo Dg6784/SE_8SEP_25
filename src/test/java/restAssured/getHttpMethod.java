@@ -11,6 +11,7 @@ public class getHttpMethod {
     @Test
     public void verifyGetHttpMethod(){
         RestAssured.baseURI = "https://reqres.in/api/users";
+        System.out.println(RestAssured.baseURI); 
         Response res = RestAssured
                 .given()
                 .header("content-type", ContentType.JSON)
@@ -22,7 +23,7 @@ public class getHttpMethod {
                 .then()
                 .log().all()
                 .statusCode(HttpStatus.SC_OK)
-                .extract().response();             
+                .extract().response();
 
     }
 
