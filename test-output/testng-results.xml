@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-04T15:34:53 IST" name="Default Suite" finished-at="2025-11-04T15:34:53 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2025-11-04T15:34:53 IST" name="SE_8SEP_25" finished-at="2025-11-04T15:34:53 IST" duration-ms="87">
+      <class name="testng.basics.failTestCasesRunExample">
+        <test-method is-config="true" signature="set()[pri:0, instance:testng.basics.AnootationsExample2@359f7cdf]" started-at="2025-11-04T15:34:53 IST" name="set" finished-at="2025-11-04T15:34:53 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="test1()[pri:0, instance:testng.basics.AnootationsExample2@359f7cdf]" started-at="2025-11-04T15:34:53 IST" name="test1" finished-at="2025-11-04T15:34:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="down()[pri:0, instance:testng.basics.AnootationsExample2@359f7cdf]" started-at="2025-11-04T15:34:53 IST" name="down" finished-at="2025-11-04T15:34:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+        <test-method is-config="true" signature="set()[pri:0, instance:testng.basics.AnootationsExample2@359f7cdf]" started-at="2025-11-04T15:34:53 IST" name="set" finished-at="2025-11-04T15:34:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="test2()[pri:0, instance:testng.basics.AnootationsExample2@359f7cdf]" started-at="2025-11-04T15:34:53 IST" name="test2" finished-at="2025-11-04T15:34:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="down()[pri:0, instance:testng.basics.AnootationsExample2@359f7cdf]" started-at="2025-11-04T15:34:53 IST" name="down" finished-at="2025-11-04T15:34:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+      </class> <!-- testng.basics.AnootationsExample2 -->
+    </test> <!-- SE_8SEP_25 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
