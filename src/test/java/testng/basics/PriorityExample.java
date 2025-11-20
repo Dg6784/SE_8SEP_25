@@ -21,9 +21,9 @@ public class PriorityExample {
     @Test(priority = 4)
     public void testM(){
         System.out.println("test M");
-                System.out.println("test M");
 
         
     }
 }
+
 
